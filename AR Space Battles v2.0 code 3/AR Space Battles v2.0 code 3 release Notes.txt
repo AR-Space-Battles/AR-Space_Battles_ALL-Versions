@@ -1,0 +1,12 @@
+In v2.0 code 3 of my AR game, AR Space Battles, I have done the following changes:-
+
+* Game has been optimised so as to reduce the speed of enemy ships
+
+* Have added a Game Menu with instructions 
+
+
+* Have changed the size of the spaceship from which you fire laser bullets
+
+
+Have submitted it, APP is being reviewed. The update will be avaiable on
+Playstore in 3-5 days. 
